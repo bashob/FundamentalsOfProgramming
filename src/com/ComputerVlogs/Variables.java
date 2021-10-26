@@ -15,8 +15,8 @@ public class Variables {
         String student1 = "Aryan";
         String student2 = "Shabana";
 
-        System.out.println(marks1);
-        System.out.println(student2);
+        System.out.println(marks1, " ", marks2);
+        System.out.println(student2, " ", student1);
 
     }
 }
